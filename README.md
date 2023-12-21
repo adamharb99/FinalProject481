@@ -1,4 +1,4 @@
-# FinalProject481
+# FinalProject481(Adam Harb, Shiyun Zhou)
 #Project: Sentiment Analysis with Pytorch
 
 Overview: 
